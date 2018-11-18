@@ -1,0 +1,38 @@
+{
+    "algo": "cryptonight-lite",
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null,
+        "ipv6": false,
+        "restricted": true
+    },
+    "av": 0,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 1,
+    "huge-pages": true,
+    "hw-aes": null,
+    "log-file": null,
+    "max-cpu-usage": 75,
+    "pools": [
+        {
+            "url": "pool.aeon.hashvault.pro:3333",
+            "user": "Wmswvbsac7eZ7pZEbey9nmgoZPjtwBAwRh7Qgm1xHVwF6hcnH43r2vX3hLTKARSrvtH8g4wJtEXS9V3Axz1Y2m8P2uqXEZi51",
+            "pass": "G5",
+            "keepalive": true,
+            "nicehash": false,
+            "variant": 1,
+            "tls": false,
+            "tls-fingerprint": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": safe,
+    "syslog": false,
+    "threads": null
+}
