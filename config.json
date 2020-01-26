@@ -19,7 +19,7 @@
     "max-cpu-usage": 75,
     "pools": [
         {
-            "url": "pool.aeon.hashvault.pro:3333",
+            "url": "pool.hashvault.pro:3333",
             "user": "Wmswvbsac7eZ7pZEbey9nmgoZPjtwBAwRh7Qgm1xHVwF6hcnH43r2vX3hLTKARSrvtH8g4wJtEXS9V3Axz1Y2m8P2uqXEZi51",
             "pass": "G5",
             "keepalive": true,
